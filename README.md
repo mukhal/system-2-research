@@ -127,6 +127,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Blog: [Reverse engineering OpenAI’s o1 ](https://www.interconnects.ai/p/reverse-engineering-openai-o1) by [Nathan Lambert](https://twitter.com/natolambert)
 
 ### Reward Models (ORM/PRM)
+- 23 April 2025 ThinkPRM: [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
 - 13 Jan 2025  QwQ PRM: [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) - consensus of MC estimation & LLM-as-a-judge
 - 02 Jan 2025  [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/-Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) - implicit PRM, gh: [PRIME-RL/PRIME](https://github.com/PRIME-RL/PRIME)
 - 02 Dec 2024  Implicit PRM: [Free Process Rewards without Process Labels](https://arxiv.org/abs/2412.01981), gh: [PRIME-RL/ImplicitPRM](https://github.com/PRIME-RL/ImplicitPRM)
